@@ -6,3 +6,4 @@ hello, world!
 master test
 hot_fix test
 push test
+pull test
